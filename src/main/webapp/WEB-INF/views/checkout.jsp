@@ -19,7 +19,7 @@ body {
 
 .container {
     width: 380px;
-    background: white;
+    background: #fffff0;
     padding: 25px;
 
     border-radius: 16px;
@@ -31,7 +31,7 @@ body {
 
 .container h2 {
     text-align: center;
-    color: #3c000b;
+    color:  #f4c2c2;;
     margin-bottom: 20px;
 }
 
@@ -52,7 +52,7 @@ input, textarea {
 
 
 input:focus, textarea:focus {
-    border-color: #3c000b;
+    border-color:  #f4c2c2;;
     box-shadow: 0 0 0 2px rgba(60,0,11,0.1);
     outline: none;
 }
@@ -72,8 +72,8 @@ button {
     border: none;
     border-radius: 25px;
 
-    background: #3c000b;
-    color: white;
+    background:  #f4c2c2;;
+    color:#fffff0;
 
     font-size: 15px;
     font-weight: bold;
@@ -97,7 +97,7 @@ button:hover {
 
 .success {
     text-align: center;
-    color: #3c000b;
+    color:  #f4c2c2;;
     font-size: 20px;
     line-height: 1.6;
 }
@@ -106,8 +106,8 @@ button:hover {
     display: inline-block;
     margin-top: 15px;
     text-decoration: none;
-    background: #3c000b;
-    color: white;
+    background:  #f4c2c2;;
+    color: #fffff0;
     padding: 10px 20px;
     border-radius: 20px;
 }

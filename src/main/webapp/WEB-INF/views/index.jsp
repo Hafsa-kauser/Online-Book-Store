@@ -26,8 +26,8 @@
     justify-content: space-between;
 
     padding: 12px 20px;
-    background: #3c000b;
-    color: white;
+    background: #f4c2c2;
+    color: #fffff0;
 }
 
 
@@ -47,8 +47,8 @@
 
 
 .navbar a {
-    color: #3c000b;
-    background: white;
+    color:  #f4c2c2;;
+    background:#fffff0;
     padding: 6px 12px;
     text-decoration: none;
     font-weight: bold;
@@ -64,7 +64,7 @@
 
 
 .card {
-    background: white;
+    background:#fffff0;
     padding: 10px;
     border: 1px solid #ddd;
     display: flex;
@@ -91,14 +91,14 @@
 
 .card h4 {
     margin: 6px 0;
-    color: #3c000b;
+    color:  #f4c2c2;;
 }
 
 a{
 text-decoration:none;}
 .btn {
     padding: 8px;
-    background: #3c000b;
+    background:  #f4c2c2;;
     color: white;
     border: none;
     cursor: pointer;
@@ -115,8 +115,8 @@ text-decoration:none;}
 .qty-box button {
     padding: 4px 8px;
     border: none;
-    background: #3c000b;
-    color: white;
+    background:  #f4c2c2;;
+    color: #fffff0;
     cursor: pointer;
 }
 
@@ -157,7 +157,7 @@ text-decoration:none;}
 <body>
 
 <div class="navbar" id="navbar">
-    <h2>📱 Mobile Store</h2>
+    <h2>Online Book Store</h2>
 
     <div class="navbar-center">
         <input type="text" id="search" placeholder="Search products..." onkeyup="searchProducts()">

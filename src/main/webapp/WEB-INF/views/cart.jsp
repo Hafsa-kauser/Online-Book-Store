@@ -21,12 +21,12 @@ body {
 
 .top h2 {
     margin-bottom: 10px;
-    color: #3c000b;
+    color:  #f4c2c2;;
 }
 
 .top a {
     text-decoration: none;
-    color: #3c000b;
+    color:  #f4c2c2;;
     font-weight: bold;
 }
 
@@ -45,7 +45,7 @@ table {
 
 
 th {
-    background: #3c000b;
+    background:  #f4c2c2;;
     color: white;
     padding: 14px;
     font-weight: 600;
@@ -65,7 +65,7 @@ tr:hover {
 
 button {
     padding: 6px 12px;
-    background: #3c000b;
+    background:  #f4c2c2;;
     color: white;
     border: none;
     border-radius: 20px;
@@ -79,7 +79,7 @@ button{
 
 
 #grandTotal {
-    color: #3c000b;
+    color:  #f4c2c2;;
     font-weight: bold;
 }
 
@@ -93,7 +93,7 @@ h3 {
 
 .checkout-btn {
     padding: 12px 25px;
-    background: #3c000b;
+    background:  #f4c2c2;;
     color: white;
     border: none;
     border-radius: 25px;
